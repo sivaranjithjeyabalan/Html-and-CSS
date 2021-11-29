@@ -1,0 +1,267 @@
+
+#float
+{
+    font-family:calibri;
+    font-size: 20px;
+    margin-left: 30px;
+    float: left;
+    
+    
+}
+#menuBar
+{
+    background-color:rgb(241, 249, 255);;
+    position: fixed;
+    margin:auto;
+}
+#menuUl
+{
+    display: block;
+}
+li{
+    display: inline;
+}
+
+#fmenu
+{
+   display: inline;
+    padding-left: 240px;
+    font-family: calibri;
+}
+#menu
+{
+    display: inline-block;
+    font-family: calibri;
+    padding-left: 35px;
+}
+
+.cs
+{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: calibri;
+    
+}
+#getS
+{
+    color: red;
+    text-decoration: none;
+    font-size: 20px;
+}
+.terms
+{
+    color: red;
+    text-decoration: none;
+}
+.terms:hover
+{
+color: brown;
+}
+.terms:active
+{
+    color: brown;
+}
+#sendUs
+{
+    text-align: center;
+    background-color:white;
+    float: left;
+    border: 5px solid white;
+    padding-left: 45px; 
+    margin-left: 25%;
+    
+    
+}
+ #bgcolor
+{
+    background-image: url("../Images/Vector-1.png");
+    background-size: 100% 100%;
+    background-color: rgb(232, 244, 253);
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;  
+} 
+
+button
+{
+    background-color:orangered;
+    color: white;
+    font-size: 20px;
+    font-family: calibri;
+    height: 48px;
+    width: 410px;
+    border: 1px orangered;
+    display: inline;
+}
+#chat
+{
+    
+    position: fixed;
+    float: left;
+    padding-left: 60px;
+}
+button:hover{
+    background-color: antiquewhite;
+    color: crimson;
+}
+#form
+{
+    text-align: left;
+    width: 475px;
+}
+
+#locationHead
+{
+    font-family: calibri;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color:darkslategrey;
+   
+    
+}
+#hq
+{
+    clear:left;
+    font-family: calibri;
+    font-size: 20px;
+    float: left;
+    padding-left: 30px;
+    
+}
+#eymard
+{
+    font-family: calibri;
+    font-size: 20px;
+    float: left;
+    padding-left: 30px;
+}
+#karuna
+{
+    font-family: calibri;
+    font-size: 20px;
+    float: left;
+    padding-left: 30px;
+}
+
+#madhura
+{
+    margin-top: 30px;
+    clear: left;
+    font-family: calibri;
+    font-size: 20px;
+    float: left;
+    padding-left: 30px;
+}
+
+#kisumu
+{
+    margin-top: 30px;
+    font-family: calibri;
+    font-size: 20px;
+    float: left;
+    padding-left: 30px;
+   
+}
+.dummy
+{
+    clear: both;
+}
+#folus
+{
+    color: slategray;
+    font-size: 25px;
+    font-family: calibri;
+    font-weight: bold;
+    float: left;
+    margin-top: 7px;
+    margin-left: 400px;
+}
+#fb
+{
+    float: left;
+    padding-left: 15px;
+}
+#tw
+{
+    float: left;
+    padding-left: 15px;
+}
+#in
+{
+    float: left;
+    padding-left: 15px;
+}
+#yt
+{
+    float: left;
+    padding-left: 15px;
+}
+#p
+{
+    float: left;
+    padding-left: 15px;
+}
+#biLogo
+{
+    
+    float: left;
+    margin-left: 50px;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+    font-family: calibri;
+    font-size: 16px;
+}
+a:hover
+{
+    color: red;
+}
+#products
+{
+    font-family: calibri;
+    float: left;
+    padding-left:200px;
+    line-height: 2;
+}
+#supports
+{
+    font-family: calibri;
+    float: left;
+    padding-left: 220px;
+    line-height: 2;
+}
+#company
+{
+    font-family: calibri;
+    float: left;
+    padding-left:120px;
+    line-height: 2;
+}
+#solutions
+{
+    font-family: calibri;
+    float: left;
+    padding-left:370px;
+    line-height: 2;
+}
+#resources
+{
+    font-family: calibri;
+    float: left;
+    padding-left:260px;
+    line-height: 2;
+}
+#account
+{
+    font-family: calibri;
+    float: left;
+    padding-left:120px;
+    line-height: 2;
+}
+#footer
+{
+    margin-left: 300px;
+}
